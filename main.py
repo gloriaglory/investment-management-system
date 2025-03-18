@@ -8,7 +8,7 @@ from sklearn.ensemble import VotingRegressor
 
 # Define the pages
 PAGES = {
-    "Home Page": "home_page",
+    "Home Page": "home_page", 
     "Select Scheme": "scheme_selection",
     "Visualization": "visualization",
 }

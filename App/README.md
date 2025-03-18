@@ -3,7 +3,7 @@
 ## Introduction
 This README file provides instructions on how to use the project's Streamlit app, including details on the app's structure and the steps to run it locally.
 
-## Project Structure
+## Project Structure .\venv\Scripts\activate
 The project has the following structure:
 
 - `requirements.txt`: Contains a list of required Python packages and dependencies.
@@ -24,12 +24,7 @@ To run the Streamlit app, follow these steps:
    pip install -r requirements.txt
    ```
 
-2. Navigate to the `app` folder using the command:
-   ```
-   cd app
-   ```
-
-3. Run the Streamlit app using the following command:
+2. Run the Streamlit app using the following command:
    ```
    streamlit run app.py
    ```
