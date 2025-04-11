@@ -6,48 +6,48 @@
 
 ---
 
-## 🚀 Vision
+## Vision
 
 BetarState aims to transform the traditional real estate industry by offering:
-- 🧠 Simplified real estate transactions
-- 🌐 Immersive property viewing via metaverse integration
-- 💸 Fractional ownership & investment via tokenization
-- 📜 Secure document handling using NFTs
+- Simplified real estate transactions
+- Immersive property viewing via metaverse integration
+- Fractional ownership & investment via tokenization
+- Secure document handling using NFTs
 
 ---
 
-## 🔥 Key Features
+## Key Features
 
 | Feature | Description |
 |--------|-------------|
-| 🏘️ **Property Tokenization** | Convert real estate assets into blockchain tokens for fractional ownership |
-| 🧾 **NFT Document Security** | Secure ownership documents as NFTs to prevent tampering or loss |
-| 🌍 **Metaverse Integration** | Virtual walk-throughs and immersive 3D property previews |
-| 💼 **Investment Exchange** | Buy and trade tokenized property shares like stocks |
-| 🔗 **Blockchain-Powered Payments** | Fast and transparent payments via Stellar |
-| 🔐 **Smart Contract Management** | Automate rental agreements and profit distribution |
-| 🧠 **AI-Powered Analytics** | Estimate property value, ROI, and rental trends |
+| **Property Tokenization** | Convert real estate assets into blockchain tokens for fractional ownership |
+| **NFT Document Security** | Secure ownership documents as NFTs to prevent tampering or loss |
+| **Metaverse Integration** | Virtual walk-throughs and immersive 3D property previews |
+| **Investment Exchange** | Buy and trade tokenized property shares like stocks |
+| **Blockchain-Powered Payments** | Fast and transparent payments via Stellar |
+| **Smart Contract Management** | Automate rental agreements and profit distribution |
+| **AI-Powered Analytics** | Estimate property value, ROI, and rental trends |
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
-### ⚙️ Backend – `Express.js`
+### Backend – `Express.js`
 - Node.js
-- PostgreSQL / MongoDB
+- PostgreSQL 
 - Stellar SDK
 - IPFS (for NFT metadata)
 - JWT & OAuth for Auth
 - Web3 tools for smart contracts
 
-### 🎨 Frontend – `React`
-- TailwindCSS / Chakra UI
+### Frontend – `React`
+- TailwindCSS
 - Axios
-- Three.js or Babylon.js for 3D/Metaverse
+- Three.js for 3D/Metaverse
 - React Router
-- WalletConnect / Albedo integration
+- Albedo integration
 
-### 🔗 Blockchain
+### Blockchain
 - **Stellar** – for tokenized payments and ownership records
 - **NFTs** – for document security and unique property representation
 - **Smart Contracts** – for automating processes (via Solidity if Ethereum used alongside Stellar)
